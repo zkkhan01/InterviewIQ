@@ -1,6 +1,6 @@
 HackIllinois submission
 
-Zain Khalil KHan & Shanzay Khan
+Zain Khalil Khan & Shanzay Khan
 
 Prepti is a modern AI powered interview simulator built to help candidates prepare for real world job interviews with confidence and precision. The project blends a polished startup SaaS experience with intelligent interview logic to recreate how candidates are assessed in high stakes technical and professional interviews.
 
