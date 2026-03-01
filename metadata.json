@@ -1,0 +1,5 @@
+{
+  "name": "InterviewIQ",
+  "description": "A modern AI-powered interview simulator that helps you ace your next job interview with personalized questions based on your resume.",
+  "requestFramePermissions": ["microphone"]
+}
